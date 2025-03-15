@@ -1,0 +1,58 @@
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+}ba
+body{
+    /* background-image: url(flower.jpg); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body{
+    /* background-image: url(flower1.jpg); */
+    /* background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+    background-color: aqua;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+
+img.p:hover{
+    box-shadow: 4px 4px 10px red;
+    filter: blur(2px);
+    }
+img.r:hover{
+        
+filter: blur(2px);
+}
+img.a:hover{
+            
+filter:brightnss(100%);
+}
+img.b:hover{
+    filter:brightnss(100%);
+}          
+ img.c:hover{
+                   
+filter:hue-rotate(75%);
+ }
+img.d:hover{
+                        
+ filter:saturate(200%);
+}
+img.e:hover{
+                          
+ filter:invert(100%);
+}
+ img.f:hover{
+                               
+filter:opacity(20%);
+ }
+    
+    
